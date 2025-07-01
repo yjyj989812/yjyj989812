@@ -8,7 +8,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjyj989812&hide=html,java,css&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs" />
   </a>
   <br />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=yjyj989812&theme=dark" alt="GitHub Streak" />
-  </a>
 </div>
